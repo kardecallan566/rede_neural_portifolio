@@ -6,7 +6,6 @@ from portfolio.portfolio_manager import PortfolioManager
 from trading.trader import Trader
 import config.settings as settings
 
-# Passo 1: Carregar e processar dados
 symbol = 'BTC/USDT'
 df = get_candlestick_data(symbol)
 X, y, scaler = process_candlestick_data(df)
