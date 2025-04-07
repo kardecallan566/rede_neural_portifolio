@@ -36,7 +36,7 @@ python modelo_melhorado_manus.py
 - **Treinamento de modelo**: Utiliza algoritmos de aprendizado de máquina para melhorar a acurácia.
 - **Avaliação**: Mede o desempenho do modelo com métricas padronizadas.
 - **Predição**: Faz previsões com base em novos dados fornecidos.
-- **otimização**: Faz a gestão com base em na distribuição do capital fornecido.
+- **Otimização**: Faz a gestão com base na distribuição do capital fornecido.
 
 ## Contribuição
 Se deseja contribuir, sinta-se à vontade para criar um *pull request* ou abrir uma *issue* relatando problemas e sugerindo melhorias.
