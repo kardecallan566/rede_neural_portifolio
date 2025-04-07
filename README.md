@@ -28,7 +28,7 @@ cd rede_neural_portifolio
 3. Execute o script:
 
 ```bash
-python modelo_melhorado_manus.py
+python main.py
 ```
 
 ## Funcionalidades
